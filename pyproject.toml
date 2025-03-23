@@ -13,7 +13,7 @@ readme = "README.md"
 license = { file = "LICENSE.txt" }
 requires-python = ">=3.9"
 authors = [
-    { name = "Matthias Fischer", email = "matthias@dotntautor.de" },
+    { name = "Matthias Fischer", email = "opensource@dotntautor.de" },
 ]
 keywords = [
     "IPython",
@@ -36,9 +36,10 @@ classifiers = [
 ]
 dependencies = [
     "ipywidgets>=8.0.0",
+    "numpy>=1.21.0"
 ]
 
-version = "0.1.0.dev0"
+version = "0.1.1"
 
 [project.optional-dependencies]
 docs = [

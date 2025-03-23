@@ -154,4 +154,5 @@ ipypencil/nbextension/index.*
 # Packed lab extensions
 ipypencil/labextension
 _context.txt
+_notes.txt
 .yarn
